@@ -1,4 +1,3 @@
-// config.cpp
 class CfgPatches
 {
     class My3rdPersonCam
